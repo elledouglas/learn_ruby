@@ -1,7 +1,7 @@
 require './test_helper'
 # You should be in the folder 00_hello on the command line,
 # you should have already entered
-# and you should be running this problem's tests by entering
+# and you srhould be running this problem's tests by entering
 # $ rake
 
 # The first time you run the tests, you should get an error saying "cannot load such file -- hello.rb (LoadError)"
@@ -27,9 +27,7 @@ class TestHello < MiniTest::Test
 
     # In hello.rb:
     #
-    # def hello
-    #   "Hello!"
-    # end
+
   end
 
 # Congrats, if all went well, we made our first test ever pass!
